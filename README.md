@@ -1,8 +1,15 @@
-# Title
-\<description\>
+# File I/O (C++)
+Ask the user for an adjective. Place the adjective into the following sentence:  
+"I don't want to drop this bag, it' too __________."
+
+Print the complete sentence to a file called `madlib.txt`.
+
+## Requirement
+- Commit **only** only your source code file.
 
 ## Hints
+- Remember the "proper etiquette" surrounding file streams.
 
 ## Remember
-- Name your file wsuid\_labXX.cpp
+- Name your file wsuid\_lab08.cpp
 - You are now required to include a comment block at the top of the file. See the Coding Guidelines handout.
