@@ -1,11 +1,13 @@
 # File I/O (C++)
-Ask the user for an adjective. Place the adjective into the following sentence:  
+An adjective will be provided to the program as an argument to `main()`. Place the adjective into the following sentence:  
 "I don't want to drop this bag, it' too __________."
 
 Print the complete sentence to a file called `madlib.txt`.
 
 ## Requirement
 - Commit **only** only your source code file.
+- This program takes no input from the user.
+- Nothing shall be printed to the screen.
 
 ## Hints
 - Remember the "proper etiquette" surrounding file streams.
