@@ -7,7 +7,7 @@ Print the complete sentence to a file called `madlib.txt`.
 ## Requirement
 - Commit **only** only your source code file.
 - This program takes no input from the user.
-- Nothing shall be printed to the screen.
+- Nothing shall be printed to the screen unless an error occurred.
 
 ## Hints
 - Remember the "proper etiquette" surrounding file streams.
