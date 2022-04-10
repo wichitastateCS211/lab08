@@ -14,8 +14,14 @@ jobs:
         run: ./.github/scripts/compile_script.sh "${pwd}"
         shell: bash
       - name: Run program (slippery)
-        run: ./submission < .github/scripts/input1
+        run: ./submission slippery
+        shell: bash
+      - name: Show output (slippery)
+        run: cat madlib.txt
         shell: bash
       - name: Run program (
-        run: ./submission < .github/scripts/input2
+        run: ./submission cromulent
+        shell: bash
+      - name: Show output (cromulent)
+        run: cat madlib.txt
         shell: bash
