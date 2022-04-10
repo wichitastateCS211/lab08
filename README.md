@@ -1,5 +1,5 @@
 # File I/O (C++)
-An adjective will be provided to the program as an argument to `main()`. Place the adjective into the following sentence:  
+A single-word adjective will be provided to the program as an argument to `main()`. Place the adjective into the following sentence:  
 "I don't want to drop this bag, it' too __________."
 
 Print the complete sentence to a file called `madlib.txt`.
